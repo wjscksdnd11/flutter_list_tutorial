@@ -1,6 +1,6 @@
 # flutter_app
 
-A new Flutter application. (google codlabs)[https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/index.html?index=..%2F..index#6]
+A new Flutter application. [google codlabs](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/index.html?index=..%2F..index#6)
 
 ## Getting Started
 
